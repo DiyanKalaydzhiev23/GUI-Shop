@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="32f70b33-c531-40da-a2cd-451cebf920d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/authentication.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buying_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/buying_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/products_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/products_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/users_information.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/users_information.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +23,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="canvas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GUI-Shop" />
@@ -95,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665491430195</updated>
       <workItem from="1665491435591" duration="9384000" />
+      <workItem from="1675944923581" duration="96000" />
     </task>
     <servers />
   </component>
@@ -111,6 +108,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GUI_Shop$canvas.coverage" NAME="canvas Coverage Results" MODIFIED="1665499645979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
